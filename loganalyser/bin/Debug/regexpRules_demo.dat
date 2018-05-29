@@ -1,0 +1,7 @@
+{
+  "Demo KPI 1": "Return the global download speed: (\\d+)\\(bits\\/second\\)\\.",
+  "Demo KPI 2": "isPlaying\\(\\):isplaying = false,playerClient.PEPlayer_GetState\\(\\)",
+  "Demo KPI 3": "Network bandwidth (\\d+\\.\\d+)bps is less than the minimal bitrate",
+  "Demo Message 1": "PEIner_HeaderCallback, HTTP\\/1\\.1 200 OK",
+  "Demo KPI 4": "getProperties:BUFFER_LENTH  value:(\\d+)"
+}

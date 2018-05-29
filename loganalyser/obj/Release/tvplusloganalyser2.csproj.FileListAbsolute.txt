@@ -1,0 +1,12 @@
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\bin\Release\tvplusloganalyser2.exe.config
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\bin\Release\tvplusloganalyser2.exe
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\bin\Release\tvplusloganalyser2.pdb
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\bin\Release\Newtonsoft.Json.dll
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\bin\Release\Newtonsoft.Json.xml
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\obj\Release\tvplusloganalyser2.EditRuleDialog.resources
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\obj\Release\tvplusloganalyser2.Form1.resources
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\obj\Release\tvplusloganalyser2.NewRuleDialog.resources
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\obj\Release\tvplusloganalyser2.Properties.Resources.resources
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\obj\Release\tvplusloganalyser2.csproj.GenerateResource.Cache
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\obj\Release\tvplusloganalyser2.exe
+C:\Users\tcerdkoc\Documents\Visual Studio 2015\Projects\tvplusloganalyser3\tvplusloganalyser2\obj\Release\tvplusloganalyser2.pdb
